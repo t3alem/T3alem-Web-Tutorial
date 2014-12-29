@@ -1,0 +1,24 @@
+ p{
+            color: blue;
+        }
+        
+        a{
+            font-size: 30px;
+            color: green;
+        }
+        
+        h1{
+            font-family: "Times New Roman", fantasy, cursive;
+            text-align: center;
+        }
+        
+        h2{
+            font-family: cursive, "Times New Roman", fantasy;
+            text-align: right;
+                
+        }
+        
+        h3{
+            font-family: fantasy, "Times New Roman", cursive;
+            text-align: left;
+        }
